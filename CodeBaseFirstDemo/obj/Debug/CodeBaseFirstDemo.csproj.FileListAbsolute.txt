@@ -1,0 +1,12 @@
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\CodeBaseFirstDemo.exe.config
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\CodeBaseFirstDemo.exe
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\CodeBaseFirstDemo.pdb
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\EntityFramework.dll
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\EntityFramework.xml
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\obj\Debug\CodeBaseFirstDemo.csprojResolveAssemblyReference.cache
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\obj\Debug\CodeBaseFirstDemo.exe
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\obj\Debug\CodeBaseFirstDemo.pdb
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\obj\Debug\CodeBaseFirstDemo.Migrations.CreatePost.resources
+D:\CodeBaseFirstDemo\CodeBaseFirstDemo\obj\Debug\CodeBaseFirstDemo.csproj.GenerateResource.Cache
